@@ -1,0 +1,9 @@
+#home-page div.flex {
+    max-width: 100% ;
+}
+
+.avatar {
+  position: absolute;
+  top: 0px;
+  left: -36px;
+}
