@@ -113,7 +113,7 @@ sections:
 - block: markdown
   content:
     title: Papers
-    text: "1. Anna Geisler, [Mihyun Kang](https://www.math.tugraz.at/~kang/), [Michail Sarantis](https://sites.google.com/view/msarantis), and **Ronen Wdowinski**. Counting independent sets in percolated graphs via the Ising model, *submitted*. ([arXiv Link](https://arxiv.org/abs/2504.08715))
+    text: "1. [Anna Geisler](https://www.math.tugraz.at/~geisler/), [Mihyun Kang](https://www.math.tugraz.at/~kang/), [Michail Sarantis](https://sites.google.com/view/msarantis), and **Ronen Wdowinski**. Counting independent sets in percolated graphs via the Ising model, *submitted*. ([arXiv Link](https://arxiv.org/abs/2504.08715))
     
     1. **Ronen Wdowinski**. Bounded degree graphs and hypergraphs with no full rainbow matchings, *submitted*. ([arXiv Link](https://arxiv.org/abs/2401.06029))
     

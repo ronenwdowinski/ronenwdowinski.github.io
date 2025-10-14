@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ronen Wdowinski</title>
-    <link>ronenwdowinski.github.io/</link>
-      <atom:link href="ronenwdowinski.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Ronen Wdowinski</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>ronenwdowinski.github.io/media/icon_hu_a8622f211469b3ab.png</url>
+      <url>http://localhost:1313/media/icon_hu_a8622f211469b3ab.png</url>
       <title>Ronen Wdowinski</title>
-      <link>ronenwdowinski.github.io/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
   </channel>

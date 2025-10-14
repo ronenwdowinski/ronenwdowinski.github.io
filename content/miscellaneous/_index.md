@@ -10,10 +10,7 @@ sections:
     columns: 1
     view: article-grid
   content:
-    text: "When I am not doing mathematics, I often engage in birdwatching, indoor climbing, running, cycling, and hiking. 
-    
-    
-    More content to come."
+    text: "When I am not doing mathematics, I often engage in indoor climbing, running, cycling, hiking, and birdwatching."
   id: miscellaneous
 summary: Miscellaneous
 title: Miscellaneous
