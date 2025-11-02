@@ -138,7 +138,7 @@ sections:
 - block: markdown
   content:
     title: Teaching
-    text: "During January--April 2024, I lectured at the University of Waterloo for the course, *MATH 136: Linear Algebra 1 for Honours*."
+    text: "During January to April 2024, I lectured at the University of Waterloo for the course, *MATH 136: Linear Algebra 1 for Honours*."
   design:
     columns: "1"
   id: teaching
