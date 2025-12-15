@@ -36,8 +36,8 @@ bio: I am currently a postdoctoral researcher at TU Graz. My research interests 
 I am a postdoctoral researcher at the Institute of Discrete Mathematics at TU Graz, working with Mihyun Kang. 
 I did my PhD in Combinatorics and Optimization at the University of Waterloo, under the supervision of Penny Haxell. 
 
-With Mihyun Kang, I help organize the [Graz Combinatorics Seminar](https://www.math.tugraz.at/comb/index.php?link=seminars).
-My research interests lie in extremal, probabilistic, and topological combinatorics.
+My research interests lie in extremal, probabilistic, and topological combinatorics. 
+Topics include graph theory, combinatorial optimization, discrete geometry, algebraic topology, and statistical physics.
 
 Email address: wdowinski [at] math [dot] tugraz [dot] at.
 
