@@ -123,7 +123,7 @@ sections:
     *Submitted*. ([arXiv Link](https://arxiv.org/abs/2504.08715))
     
     1. **Bounded degree graphs and hypergraphs with no full rainbow matchings**. <br>
-    *European Journal of Combinatorics* 133:104316, 2026. ([arXiv Link](https://arxiv.org/abs/2401.06029))
+    *European Journal of Combinatorics* 133:104316, 2026. ([Journal Link](https://doi.org/10.1016/j.ejc.2025.104316), [arXiv Link](https://arxiv.org/abs/2401.06029))
     
     1. **Constructing graphs with no independent transversals** (with Penny Haxell). <br>
     *The Electronic Journal of Combinatorics* 31(2):P2--39, 2024. ([Journal Link](https://doi.org/10.37236/12429), [arXiv Link](https://arxiv.org/abs/2309.12150))
