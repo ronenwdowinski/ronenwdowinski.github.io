@@ -120,7 +120,7 @@ sections:
     *Submitted*.
     
     1. **Counting independent sets in percolated graphs via the Ising model** (with [Anna Geisler](https://www.math.tugraz.at/~geisler/), [Mihyun Kang](https://www.math.tugraz.at/~kang/), [Michail Sarantis](https://sites.google.com/view/msarantis)). <br>
-    *Random Structures & Algorithms* 68:e70044, 2026. ([arXiv Link](https://arxiv.org/abs/2504.08715))
+    *Random Structures & Algorithms* 68:e70044, 2026. ([Journal Link](https://doi.org/10.1002/rsa.70044), [arXiv Link](https://arxiv.org/abs/2504.08715))
     
     1. **Bounded degree graphs and hypergraphs with no full rainbow matchings**. <br>
     *European Journal of Combinatorics* 133:104316, 2026. ([Journal Link](https://doi.org/10.1016/j.ejc.2025.104316), [arXiv Link](https://arxiv.org/abs/2401.06029))
