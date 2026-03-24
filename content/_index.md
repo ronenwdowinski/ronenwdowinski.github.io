@@ -113,11 +113,14 @@ sections:
 - block: markdown
   content:
     title: Papers
-    text: "1. **Hall's theorem for reconfigurations and higher dimensional topological connectedness**. <br>
-    *Submitted*. ([arXiv Link](https://arxiv.org/abs/2511.04863))
+    text: "1. **Block-weighted random graphs: planar and beyond** (with [Zéphyr Salvy](https://www.dmg.tuwien.ac.at/zsalvy/), [Mihyun Kang](https://www.math.tugraz.at/~kang/)). <br>
+    ([arXiv Link])(https://arxiv.org/abs/2602.23912)
     
     1. **Sampling from the antiferromagnetic Ising model on bipartite, regular expander graphs** (with [Anna Geisler](https://www.math.tugraz.at/~geisler/), [Mihyun Kang](https://www.math.tugraz.at/~kang/), [Michail Sarantis](https://sites.google.com/view/msarantis)). <br>
-    *Submitted*.
+    *Submitted*. ([arXiv Link])(https://arxiv.org/abs/2603.02101)
+    
+    1. **Hall's theorem for reconfigurations and higher dimensional topological connectedness**. <br>
+    *Submitted*. ([arXiv Link](https://arxiv.org/abs/2511.04863))
     
     1. **Counting independent sets in percolated graphs via the Ising model** (with [Anna Geisler](https://www.math.tugraz.at/~geisler/), [Mihyun Kang](https://www.math.tugraz.at/~kang/), [Michail Sarantis](https://sites.google.com/view/msarantis)). <br>
     *Random Structures & Algorithms* 68:e70044, 2026. ([Journal Link](https://doi.org/10.1002/rsa.70044), [arXiv Link](https://arxiv.org/abs/2504.08715))
