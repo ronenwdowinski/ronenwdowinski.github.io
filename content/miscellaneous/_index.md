@@ -57,6 +57,7 @@ sections:
         width: 100%;
         max-width: 750px;
         margin: 1rem auto;
+        overflow: hidden;
       }
       .swiper-slide {
         width: 100% !important;
