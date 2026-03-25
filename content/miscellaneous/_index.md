@@ -53,32 +53,37 @@ sections:
       
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
       <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      body {
+        background: #f5f5f5;
+        font-family: sans-serif;
+      }
       .swiper {
         width: 100%;
         max-width: 750px;
         margin: 1rem auto;
       }
-
       .swiper-slide {
         display: flex;
         flex-direction: column;
         align-items: center;
         width: 100% !important;
       }
-
       .swiper-slide img {
         width: 100% !important;
         max-width: 750px !important;
         height: auto !important;
       }
-
       .caption {
         text-align: center;
         font-size: 0.9rem;
         margin-top: 0.5rem;
         padding: 0 0.5rem;
       }
-
       @media (max-width: 600px) {
         .swiper {
           width: 100%;
