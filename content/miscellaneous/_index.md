@@ -81,27 +81,26 @@ sections:
 
       @media (max-width: 600px) {
         .swiper {
-          width: 92% !important;
-        }
-        .swiper-slide {
-          width: 92% !important;
-          display: flex;
-          flex-direction: column;
-          align-items: center;
-        }
-        .swiper-slide img {
-          width: 92% !important;
-          max-width: 92%;
-          height: auto;
-          margin: 0 auto;
-          display: block;
+          width: 100%;
+          margin: 0;
+          border-radius: 0;
         }
         .caption {
           font-size: 0.8rem;
+          padding: 0 0.8rem;
         }
         .swiper-button-next,
         .swiper-button-prev {
           display: none;
+        }
+        .swiper-pagination-bullet {
+          width: 10px;
+          height: 10px;
+          background: #007aff;
+          opacity: 0.5;
+        }
+        .swiper-pagination-bullet-active {
+          opacity: 1;
         }
       }
       </style>
