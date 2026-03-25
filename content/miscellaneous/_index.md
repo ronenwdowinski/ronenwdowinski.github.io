@@ -59,13 +59,18 @@ sections:
         margin: 1rem auto;
         overflow: hidden;
       }
+      .swiper-wrapper {
+        display: flex;
+        flex-wrap: nowrap;
+        box-sizing: border-box;
+      }
       .swiper-slide {
-        width: 100% !important;
         min-width: 100% !important;
         display: flex;
         flex-direction: column;
         align-items: center;
         box-sizing: border-box;
+        padding: 0;
       }
       .swiper-slide img {
         width: 100% !important;
@@ -74,10 +79,6 @@ sections:
         display: block;
         margin: 0 auto;
         border-radius: 8px;
-      }
-      .swiper-wrapper {
-        max-width: 100%;
-        box-sizing: border-box;
       }
       .caption {
         text-align: center;
@@ -88,17 +89,21 @@ sections:
         width: 100%;
       }
       @media (max-width: 600px) {
+        .swiper {
+          width: 95%;
+          max-width: 95%;
+        }
         .swiper-slide {
-          padding: 0 4%;
+          padding: 0;
         }
         .swiper-slide img {
-          width: 100% !important;
+          width: 95%;
           height: auto;
           margin: 0 auto;
           display: block;
         }
         .caption {
-          width: 92% !important;
+          width: 95%;
           font-size: 0.8rem;
           margin: 0.5rem auto 0;
           box-sizing: border-box;
