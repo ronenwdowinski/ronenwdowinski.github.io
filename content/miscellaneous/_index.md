@@ -61,6 +61,7 @@ sections:
       }
       .swiper-slide {
         width: 100% !important;
+        min-width: 100% !important;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -73,6 +74,10 @@ sections:
         display: block;
         margin: 0 auto;
         border-radius: 8px;
+      }
+      .swiper-wrapper {
+        max-width: 100%;
+        box-sizing: border-box;
       }
       .caption {
         text-align: center;
@@ -101,7 +106,7 @@ sections:
           display: none;
         }
       }
-      html, body {
+      body {
         overflow-x: hidden;
       }
       </style>
