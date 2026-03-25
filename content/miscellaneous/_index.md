@@ -90,14 +90,15 @@ sections:
       }
       @media (max-width: 600px) {
         .swiper {
-          width: 95%;
-          max-width: 95%;
+          width: 92%;
+          max-width: 92%;
         }
         .swiper-slide {
           padding: 0;
         }
         .swiper-slide img {
-          width: 95%;
+          width: 92%;
+          max-width: 92%;
           height: auto;
           margin: 0 auto;
           display: block;
