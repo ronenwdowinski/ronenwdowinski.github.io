@@ -55,7 +55,7 @@ sections:
       <style>
       .swiper {
         width: 100%;
-        max-width: 800px;
+        max-width: 750px;
         margin: 1rem auto;
       }
       .swiper-slide {
@@ -66,7 +66,7 @@ sections:
       }
       .swiper-slide img {
         width: 100% !important;
-        max-width: 800px !important;
+        max-width: 750px !important;
         height: auto !important;
         display: block;
         margin: 0 auto;
@@ -79,6 +79,9 @@ sections:
         padding: 0 0.5rem;
       }
       @media (max-width: 600px) {
+        .swiper-slide img {
+          width: 90%;
+          max-width: 90%;
         .caption {
           font-size: 0.8rem;
         }
