@@ -95,15 +95,23 @@ sections:
           padding: 0 4%;
           box-sizing: border-box;
         }
+        .swiper-slide {
+          min-width: 100% !important;
+          box-sizing: border-box;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          padding: 0;
+        }
         .swiper-slide img {
-          width: 100% !important;
-          max-width: 100% !important;
+          width: 92% !important;
+          max-width: 92% !important;
           height: auto;
           margin: 0 auto;
           display: block;
         }
         .caption {
-          width: 92%;
+          width: 100%;
           font-size: 0.8rem;
           margin: 0.5rem auto 0;
           text-align: center;
