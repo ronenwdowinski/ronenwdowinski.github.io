@@ -48,6 +48,7 @@ sections:
         </div>
         <div class="swiper-button-next"></div>
         <div class="swiper-button-prev"></div>
+        <div class="swiper-pagination"></div>
       </div>
       
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
@@ -58,14 +59,15 @@ sections:
         margin: 1rem auto;
       }
       .swiper-slide {
+        width: 100% !important;
         display: flex;
         flex-direction: column;
         align-items: center;
       }
       .swiper-slide img {
-        width: 100%;
-        max-width: 800px;
-        height: auto;
+        width: 100% !important;
+        max-width: 800px !important;
+        height: auto !important;
         display: block;
         margin: 0 auto;
         border-radius: 8px;
