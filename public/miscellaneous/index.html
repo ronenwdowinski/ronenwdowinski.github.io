@@ -763,22 +763,35 @@
   margin: 0 auto;
   border-radius: 8px;
 }
-.swiper-slide p.caption {
+.caption {
   text-align: center;
   font-size: 0.9rem;
   margin-top: 0.5rem;
-  color: #333;
+  padding: 0 0.5rem;
+}
+@media (max-width: 600px) {
+  .caption {
+    font-size: 0.8rem;
+  }
+  .swiper-button-next,
+  .swiper-button-prev {
+    display: none;
+  }
 }
 </style>
 <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
 <script>
-  new Swiper('.swiper', {
-    loop: true,
-    navigation: {
-      nextEl: '.swiper-button-next',
-      prevEl: '.swiper-button-prev',
-    },
-  });
+new Swiper('.swiper', {
+  loop: true,
+  navigation: {
+    nextEl: '.swiper-button-next',
+    prevEl: '.swiper-button-prev',
+  },
+  pagination: {
+    el: '.myGallery .swiper-pagination',
+    clickable: true,
+  },
+});
 </script>
 </div>
 </div>
