@@ -91,7 +91,7 @@ sections:
           display: block;
         }
         .caption {
-          width: 92%;
+          width: 92% !important;
           font-size: 0.8rem;
           margin: 0.5rem auto 0;
           box-sizing: border-box;
