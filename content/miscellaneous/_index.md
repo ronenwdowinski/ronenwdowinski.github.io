@@ -55,17 +55,17 @@ sections:
       <style>
       .swiper {
         width: 100%;
-        max-width: 750px !important;
+        max-width: 750px;
         margin: 1rem auto;
       }
       .swiper-slide {
-        width: 100%;
+        width: 100% !important;
         display: flex;
         flex-direction: column;
         align-items: center;
       }
       .swiper-slide img {
-        width: 100%;
+        width: 100% !important;
         max-width: 750px !important;
         height: auto !important;
         display: block;
@@ -79,9 +79,12 @@ sections:
         padding: 0 0.5rem;
       }
       @media (max-width: 600px) {
-        .swiper-slide {
-          padding: 0 12px; /* space on left and right */
-          box-sizing: border-box;
+        .swiper-slide img {
+          width: 92% !important;
+          max-width: 92%;
+          height: auto;
+          margin: 0 auto;
+          display: block;
         }
         .caption {
           font-size: 0.8rem;
