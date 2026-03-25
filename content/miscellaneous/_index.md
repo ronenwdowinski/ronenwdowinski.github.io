@@ -101,6 +101,9 @@ sections:
           display: none;
         }
       }
+      html, body {
+        overflow-x: hidden;
+      }
       </style>
       
       <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
