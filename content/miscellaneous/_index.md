@@ -55,17 +55,17 @@ sections:
       <style>
       .swiper {
         width: 100%;
-        max-width: 750px;
+        max-width: 750px !important;
         margin: 1rem auto;
       }
       .swiper-slide {
-        width: 100% !important;
+        width: 100%;
         display: flex;
         flex-direction: column;
         align-items: center;
       }
       .swiper-slide img {
-        width: 100% !important;
+        width: 100%;
         max-width: 750px !important;
         height: auto !important;
         display: block;
