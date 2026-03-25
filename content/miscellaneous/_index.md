@@ -81,10 +81,10 @@ sections:
 
       @media (max-width: 600px) {
         .swiper {
-          width: 100%;
+          width: 92% !important;
         }
         .swiper-slide {
-          width: 100% !important;
+          width: 92% !important;
           display: flex;
           flex-direction: column;
           align-items: center;
