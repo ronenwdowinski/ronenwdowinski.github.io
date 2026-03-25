@@ -53,59 +53,55 @@ sections:
       
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
       <style>
-      * {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-      }
-      body {
-        background: #f5f5f5;
-        font-family: sans-serif;
-      }
       .swiper {
         width: 100%;
         max-width: 750px;
         margin: 1rem auto;
       }
+
       .swiper-slide {
         display: flex;
         flex-direction: column;
         align-items: center;
         width: 100% !important;
       }
+
       .swiper-slide img {
         width: 100% !important;
         max-width: 750px !important;
         height: auto !important;
       }
+
       .caption {
         text-align: center;
         font-size: 0.9rem;
         margin-top: 0.5rem;
         padding: 0 0.5rem;
       }
+
       @media (max-width: 600px) {
         .swiper {
-          width: 100%;
-          margin: 0;
-          border-radius: 0;
+          width: 92% !important;
+        }
+        .swiper-slide {
+          width: 92% !important;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+        }
+        .swiper-slide img {
+          width: 92% !important;
+          max-width: 92%;
+          height: auto;
+          margin: 0 auto;
+          display: block;
         }
         .caption {
           font-size: 0.8rem;
-          padding: 0 0.8rem;
         }
         .swiper-button-next,
         .swiper-button-prev {
           display: none;
-        }
-        .swiper-pagination-bullet {
-          width: 10px;
-          height: 10px;
-          background: #007aff;
-          opacity: 0.5;
-        }
-        .swiper-pagination-bullet-active {
-          opacity: 1;
         }
       }
       </style>
