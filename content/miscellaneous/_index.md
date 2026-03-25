@@ -90,23 +90,23 @@ sections:
       }
       @media (max-width: 600px) {
         .swiper {
-          width: 92%;
-          max-width: 92%;
-        }
-        .swiper-slide {
-          padding: 0;
+          width: 100% !important;
+          max-width: 100% !important;
+          padding: 0 4%;
+          box-sizing: border-box;
         }
         .swiper-slide img {
-          width: 92%;
-          max-width: 92%;
+          width: 100% !important;
+          max-width: 100% !important;
           height: auto;
           margin: 0 auto;
           display: block;
         }
         .caption {
-          width: 95%;
+          width: 92%;
           font-size: 0.8rem;
           margin: 0.5rem auto 0;
+          text-align: center;
           box-sizing: border-box;
         }
         .swiper-button-next,
