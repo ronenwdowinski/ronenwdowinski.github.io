@@ -88,9 +88,11 @@ sections:
         width: 100%;
       }
       @media (max-width: 600px) {
+        .swiper-slide {
+          padding: 0 4%;
+        }
         .swiper-slide img {
-          width: 92% !important;
-          max-width: 92%;
+          width: 100% !important;
           height: auto;
           margin: 0 auto;
           display: block;
