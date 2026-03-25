@@ -79,6 +79,10 @@ sections:
         padding: 0 0.5rem;
       }
       @media (max-width: 600px) {
+        .swiper-slide {
+          padding: 0 12px; /* space on left and right */
+          box-sizing: border-box;
+        }
         .caption {
           font-size: 0.8rem;
         }
