@@ -90,7 +90,11 @@ sections:
           align-items: center;
         }
         .swiper-slide img {
-          width: 90%;
+          width: 92% !important;
+          max-width: 92%;
+          height: auto;
+          margin: 0 auto;
+          display: block;
         }
         .caption {
           font-size: 0.8rem;
