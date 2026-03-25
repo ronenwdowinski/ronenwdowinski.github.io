@@ -64,6 +64,7 @@ sections:
         display: flex;
         flex-direction: column;
         align-items: center;
+        box-sizing: border-box;
       }
       .swiper-slide img {
         width: 100% !important;
