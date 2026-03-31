@@ -113,41 +113,41 @@ sections:
 - block: markdown
   content:
     title: Papers
-    text: "1. **Block-weighted random graphs: planar and beyond** (with [Zéphyr Salvy](https://www.dmg.tuwien.ac.at/zsalvy/), [Mihyun Kang](https://www.math.tugraz.at/~kang/)). <br>
-    *Submitted*. ([arXiv Link](https://arxiv.org/abs/2602.23912))
+    text: "1. **Block-weighted random graphs: planar and beyond** ([arXiv Link](https://arxiv.org/abs/2602.23912)) <br>
+    With [Zéphyr Salvy](https://www.dmg.tuwien.ac.at/zsalvy/), [Mihyun Kang](https://www.math.tugraz.at/~kang/). *Submitted*.
     
-    1. **Sampling from the antiferromagnetic Ising model on bipartite, regular expander graphs** (with [Anna Geisler](https://www.math.tugraz.at/~geisler/), [Mihyun Kang](https://www.math.tugraz.at/~kang/), [Michail Sarantis](https://sites.google.com/view/msarantis)). <br>
-    *Submitted*. ([arXiv Link](https://arxiv.org/abs/2603.02101))
+    1. **Sampling from the antiferromagnetic Ising model on bipartite, regular expander graphs** ([arXiv Link](https://arxiv.org/abs/2603.02101)) <br>
+    With [Anna Geisler](https://www.math.tugraz.at/~geisler/), [Mihyun Kang](https://www.math.tugraz.at/~kang/), [Michail Sarantis](https://sites.google.com/view/msarantis). *Submitted*.
     
-    1. **Hall's theorem for reconfigurations and higher dimensional topological connectedness**. <br>
-    *Submitted*. ([arXiv Link](https://arxiv.org/abs/2511.04863))
+    1. **Hall's theorem for reconfigurations and higher dimensional topological connectedness** ([arXiv Link](https://arxiv.org/abs/2511.04863)) <br>
+    *Submitted*.
     
-    1. **Counting independent sets in percolated graphs via the Ising model** (with [Anna Geisler](https://www.math.tugraz.at/~geisler/), [Mihyun Kang](https://www.math.tugraz.at/~kang/), [Michail Sarantis](https://sites.google.com/view/msarantis)). <br>
-    *Random Structures & Algorithms* 68:e70044, 2026. ([Journal Link](https://doi.org/10.1002/rsa.70044), [arXiv Link](https://arxiv.org/abs/2504.08715))
+    1. **Counting independent sets in percolated graphs via the Ising model** ([Journal Link](https://doi.org/10.1002/rsa.70044), [arXiv Link](https://arxiv.org/abs/2504.08715)) <br>
+    With [Anna Geisler](https://www.math.tugraz.at/~geisler/), [Mihyun Kang](https://www.math.tugraz.at/~kang/), [Michail Sarantis](https://sites.google.com/view/msarantis). *Random Structures & Algorithms* 68:e70044, 2026.
     
-    1. **Bounded degree graphs and hypergraphs with no full rainbow matchings**. <br>
-    *European Journal of Combinatorics* 133:104316, 2026. ([Journal Link](https://doi.org/10.1016/j.ejc.2025.104316), [arXiv Link](https://arxiv.org/abs/2401.06029))
+    1. **Bounded degree graphs and hypergraphs with no full rainbow matchings** ([Journal Link](https://doi.org/10.1016/j.ejc.2025.104316), [arXiv Link](https://arxiv.org/abs/2401.06029)) <br>
+    *European Journal of Combinatorics* 133:104316, 2026. 
     
-    1. **Constructing graphs with no independent transversals** (with Penny Haxell). <br>
-    *The Electronic Journal of Combinatorics* 31(2):P2--39, 2024. ([Journal Link](https://doi.org/10.37236/12429), [arXiv Link](https://arxiv.org/abs/2309.12150))
+    1. **Constructing graphs with no independent transversals** ([Journal Link](https://doi.org/10.37236/12429), [arXiv Link](https://arxiv.org/abs/2309.12150)) <br>
+    With Penny Haxell. *The Electronic Journal of Combinatorics* 31(2):P2--39, 2024. 
     
-    1. **A precise condition for independent transversals in bipartite covers** (with [Stijn Cambie](https://www.math.ru.nl/~stijncambie/), Penny Haxell, [Ross J Kang](https://staff.fnwi.uva.nl/j.r.kang/)). <br>
-    *SIAM Journal on Discrete Mathematics* 38(2):1451--1461, 2024. ([Journal Link](https://doi.org/10.1137/23M1600384), [arXiv Link](https://arxiv.org/abs/2308.14778))
+    1. **A precise condition for independent transversals in bipartite covers** ([Journal Link](https://doi.org/10.1137/23M1600384), [arXiv Link](https://arxiv.org/abs/2308.14778)) <br>
+    With [Stijn Cambie](https://www.math.ru.nl/~stijncambie/), Penny Haxell, [Ross J Kang](https://staff.fnwi.uva.nl/j.r.kang/). *SIAM Journal on Discrete Mathematics* 38(2):1451--1461, 2024.
     
-    1. **Degree criteria and stability for independent transversals** (with Penny Haxell). <br>
-    *Journal of Graph Theory* 106(2):352--371, 2024. ([Journal Link](https://doi.org/10.1002/jgt.23085), [arXiv Link](https://arxiv.org/abs/2305.10595))
+    1. **Degree criteria and stability for independent transversals** ([Journal Link](https://doi.org/10.1002/jgt.23085), [arXiv Link](https://arxiv.org/abs/2305.10595)) <br>
+    With Penny Haxell. *Journal of Graph Theory* 106(2):352--371, 2024. 
     
-    1. **On an f-coloring generalization of linear arboricity of multigraphs**. <br>
-    *Discrete Mathematics* 347(2):113777, 2024. ([Journal Link](https://doi.org/10.1016/j.disc.2023.113777), [arXiv Link](https://arxiv.org/abs/2301.09933))
+    1. **On an f-coloring generalization of linear arboricity of multigraphs** ([Journal Link](https://doi.org/10.1016/j.disc.2023.113777), [arXiv Link](https://arxiv.org/abs/2301.09933)) <br>
+    *Discrete Mathematics* 347(2):113777, 2024. 
     
-    1. **Orientation‐based edge‐colorings and linear arboricity of multigraphs**. <br>
-    *Journal of Graph Theory* 102(4):633--647, 2023. ([Journal Link](https://doi.org/10.1002/jgt.22890), [arXiv Link](https://arxiv.org/abs/2108.11816))
+    1. **Orientation‐based edge‐colorings and linear arboricity of multigraphs** ([Journal Link](https://doi.org/10.1002/jgt.22890), [arXiv Link](https://arxiv.org/abs/2108.11816)) <br>
+    *Journal of Graph Theory* 102(4):633--647, 2023.
     
-    1. **On zigzag maps and the path category of an inverse semigroup** (with [Allan Donsig](https://www.math.unl.edu/~adonsig1/), [Jennifer Gensler](https://sites.google.com/colorado.edu/jennifergensler/home), Hannah King, David Milan). <br>
-    *Semigroup Forum* 100(3):790--805, 2020. ([Journal Link](https://doi.org/10.1007/s00233-019-10031-2), [arXiv Link](https://arxiv.org/pdf/1811.04124))
+    1. **On zigzag maps and the path category of an inverse semigroup** ([Journal Link](https://doi.org/10.1007/s00233-019-10031-2), [arXiv Link](https://arxiv.org/pdf/1811.04124)) <br>
+    (with [Allan Donsig](https://www.math.unl.edu/~adonsig1/), [Jennifer Gensler](https://sites.google.com/colorado.edu/jennifergensler/home), Hannah King, David Milan) *Semigroup Forum* 100(3):790--805, 2020.
     
-    1. **Partitioning the power set of [n] into Ck-free parts** (with Eben Blaisdell, András Gyárfás, [Robert A Krueger](https://bob1123.github.io/)). <br>
-    *The Electronic Journal of Combinatorics* 26(3):P3--38, 2019. ([Journal Link](https://doi.org/10.37236/8385), [arXiv Link](https://arxiv.org/abs/1812.06448))
+    1. **Partitioning the power set of [n] into Ck-free parts** ([Journal Link](https://doi.org/10.37236/8385), [arXiv Link](https://arxiv.org/abs/1812.06448)) <br>
+    With Eben Blaisdell, András Gyárfás, [Robert A Krueger](https://bob1123.github.io/). *The Electronic Journal of Combinatorics* 26(3):P3--38, 2019.
     "
   design:
     columns: "1"
