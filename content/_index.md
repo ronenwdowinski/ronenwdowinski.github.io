@@ -1,5 +1,5 @@
 ---
-date: "2025-05-07"
+date: "2026-04-28"
 design:
   spacing: 4rem
 sections:
@@ -113,8 +113,8 @@ sections:
 - block: markdown
   content:
     title: Papers
-    text: "1. **Block-weighted random graphs: planar and beyond** ([arXiv Link](https://arxiv.org/abs/2602.23912)). <br>
-    With [Zéphyr Salvy](https://www.dmg.tuwien.ac.at/zsalvy/), [Mihyun Kang](https://www.math.tugraz.at/~kang/). *Submitted*.
+    text: "1. **Tight constructions for reconfigurations of independent transversals** ([arXiv Link](https://arxiv.org/abs/2604.21576)). <br>
+    *Submitted*.
     
     1. **Sampling from the antiferromagnetic Ising model on bipartite, regular expander graphs** ([arXiv Link](https://arxiv.org/abs/2603.02101)). <br>
     With [Anna Geisler](https://www.math.tugraz.at/~geisler/), [Mihyun Kang](https://www.math.tugraz.at/~kang/), [Michail Sarantis](https://sites.google.com/view/msarantis). *Submitted*.
