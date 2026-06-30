@@ -1,5 +1,5 @@
 ---
-date: "2026-04-28"
+date: "2026-06-30"
 design:
   spacing: 4rem
 sections:
@@ -156,7 +156,8 @@ sections:
 - block: markdown
   content:
     title: Teaching
-    text: "During January to April 2024, I lectured at the University of Waterloo for the course, *MATH 136: Linear Algebra 1 for Honours*."
+    text: "During January to April 2024, I lectured at the University of Waterloo for the course, *MATH 136: Linear Algebra 1 for Honours*. <br>
+    During October 2026 to January 2027, I lecture at TU Graz for the course, *Probabilistic Methods in Combinatorics and Algorithms*."
   design:
     columns: "1"
   id: teaching
