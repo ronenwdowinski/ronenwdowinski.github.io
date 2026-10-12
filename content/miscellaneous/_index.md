@@ -10,7 +10,7 @@ sections:
     columns: 1
   content:
     text: |
-      Besides mathematics, I tend to do a good amount of birding, running, hiking, and climbing. 
+      Besides mathematics, I tend to do a good amount of birding, running, hiking, and rock climbing. 
     
       Check out [my flickr](https://www.flickr.com/photos/203778738@N06/) for more of my wildlife photos.
       

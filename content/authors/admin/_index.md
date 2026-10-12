@@ -33,7 +33,7 @@ bio: I am currently a postdoctoral researcher at TU Graz. My research interests 
 ---
 ## About Me
 
-I am a postdoctoral researcher at the Institute of Discrete Mathematics at TU Graz, working with [Mihyun Kang](https://www.math.tugraz.at/~kang/). 
+As of Fall 2026, I am on the job market. I am currently a postdoctoral researcher at the Institute of Discrete Mathematics at TU Graz, working with [Mihyun Kang](https://www.math.tugraz.at/~kang/). 
 I did my PhD in Combinatorics and Optimization at the University of Waterloo, under the supervision of Penny Haxell. 
 
 My research interests are in extremal, probabilistic, and topological combinatorics.

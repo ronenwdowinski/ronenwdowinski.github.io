@@ -113,7 +113,16 @@ sections:
 - block: markdown
   content:
     title: Papers
-    text: "1. **Tight constructions for reconfigurations of independent transversals** ([arXiv Link](https://arxiv.org/abs/2604.21576)). <br>
+    text: "1. **Disjoint subsets generating the same subgroup** (in preparation). <br>
+    With [Michael Anastos](https://sites.google.com/view/michael-anastos), [Matija Bucić](https://sites.google.com/view/matija-bucic/home), [Anna Geisler](https://www.math.tugraz.at/~geisler/), Max Gutkin, Mihyun Kang (https://www.math.tugraz.at/~kang/).
+    
+    1. **Diameters and sizes of reconfiguration graphs on independent transversals** (in preparation). <br>
+    With [Wouter Cames van Batenburg](https://woutercvb.github.io/), Penny Haxell, [Ross J. Kang](https://staff.fnwi.uva.nl/j.r.kang/).
+    
+    1. **Scaling limits of series-parallel graphs with both vertex and edge counts** (in preparation). <br>
+    With [Mihyun Kang](https://www.math.tugraz.at/~kang/), [Zéphyr Salvy](https://www.dmg.tuwien.ac.at/zsalvy/), [Benedikt Stufler](https://www.dmg.tuwien.ac.at/stufler/cv/).  
+    
+    1. **Tight constructions for reconfigurations of independent transversals** ([arXiv Link](https://arxiv.org/abs/2604.21576)). <br>
     *Submitted*.
     
     1. **Sampling from the antiferromagnetic Ising model on bipartite, regular expander graphs** ([arXiv Link](https://arxiv.org/abs/2603.02101)). <br>
@@ -156,8 +165,8 @@ sections:
 - block: markdown
   content:
     title: Teaching
-    text: "During January to April 2024, I lectured at the University of Waterloo for the course, *MATH 136: Linear Algebra 1 for Honours*. <br>
-    During October 2026 to January 2027, I lecture at TU Graz for the course, *Probabilistic Methods in Combinatorics and Algorithms*."
+    text: "During October 2026 to January 2027, I am lecturing at TU Graz for the course, *MAT.B0303UF: Probabilistic Combinatorics*. <br>
+    During January to April 2024, I lectured at the University of Waterloo for the course, *MATH 136: Linear Algebra 1 for Honours*."
   design:
     columns: "1"
   id: teaching
